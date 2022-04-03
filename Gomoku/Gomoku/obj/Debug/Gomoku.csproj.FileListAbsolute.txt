@@ -1,0 +1,12 @@
+c:\users\waqar_shad\documents\visual studio 2013\Projects\Gomoku\Gomoku\bin\Debug\Gomoku.exe.config
+c:\users\waqar_shad\documents\visual studio 2013\Projects\Gomoku\Gomoku\bin\Debug\Gomoku.exe
+c:\users\waqar_shad\documents\visual studio 2013\Projects\Gomoku\Gomoku\bin\Debug\Gomoku.pdb
+c:\users\waqar_shad\documents\visual studio 2013\Projects\Gomoku\Gomoku\obj\Debug\Gomoku.csprojResolveAssemblyReference.cache
+c:\users\waqar_shad\documents\visual studio 2013\Projects\Gomoku\Gomoku\obj\Debug\Gomoku.GForm.resources
+c:\users\waqar_shad\documents\visual studio 2013\Projects\Gomoku\Gomoku\obj\Debug\Gomoku.Properties.Resources.resources
+c:\users\waqar_shad\documents\visual studio 2013\Projects\Gomoku\Gomoku\obj\Debug\Gomoku.csproj.GenerateResource.Cache
+c:\users\waqar_shad\documents\visual studio 2013\Projects\Gomoku\Gomoku\obj\Debug\Gomoku.exe
+c:\users\waqar_shad\documents\visual studio 2013\Projects\Gomoku\Gomoku\obj\Debug\Gomoku.pdb
+C:\Users\Waqar_Shad\Documents\Visual Studio 2013\Projects\New folder\Gomoku\Gomoku\bin\Debug\Gomoku.exe.config
+C:\Users\Waqar_Shad\Documents\Visual Studio 2013\Projects\New folder\Gomoku\Gomoku\obj\Debug\Gomoku.exe
+C:\Users\Waqar_Shad\Documents\Visual Studio 2013\Projects\New folder\Gomoku\Gomoku\obj\Debug\Gomoku.pdb
